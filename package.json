@@ -23,7 +23,7 @@
     "consola": "^2.15.3",
     "debounce": "^1.2.1",
     "fs-extra": "^9.1.0",
-    "postcss-import": "^14.0.1",
+    "postcss-import": "^15.1.0",
     "postcss-import-resolver": "^2.0.0",
     "postcss-preset-env": "^6.7.0",
     "postcss-url": "^10.1.3",
